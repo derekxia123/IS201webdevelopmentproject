@@ -1,0 +1,53 @@
+.background{
+    background-color: lightcyan
+    }
+
+.bold {
+   font-weight: bold
+}
+
+.border{
+    border: 50px green;
+}
+
+.font{
+    font-family: 'Georgia, Times New Roman, Times, serif'
+}
+
+.textalignment{
+    text-align: center
+}
+
+.fontcolor{
+    color: aliceblue
+}
+
+.pfont{
+    font-family: monospace;
+    font-size: 20px
+}
+
+.mam{
+    font-family: cursive;
+    font-size: 30px
+}
+
+a{
+    color: navy;  
+    text-decoration: none; 
+}
+
+a:hover{
+    text-decoration: underline}
+
+li{
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: normal
+}
+
+.caption{
+    font-size: 15px;
+    font-family:cursive;
+    font-weight: 200;
+}
